@@ -1,0 +1,11 @@
+{
+  "name": "base-project-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@techmmunity/eslint-config": "^5.0.1",
+    "eslint": "^7.32.0",
+    "prettier": "^2.4.1"
+  }
+}
