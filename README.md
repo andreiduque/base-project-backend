@@ -8,3 +8,5 @@
 [![Coverage](https://img.shields.io/coveralls/github/andreiduque/base-project-backend/master?style=for-the-badge)](https://coveralls.io/github/andreiduque/base-project-backend?branch=master)
 
 </div>
+
+Base project back-end for future projects.
